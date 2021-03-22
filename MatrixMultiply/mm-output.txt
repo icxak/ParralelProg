@@ -1,0 +1,13 @@
+dim =  3163 numOfThreads = 2 time = 21057 ms
+dim =  3163 numOfThreads = 64 time = 11289 ms
+dim =  3163 numOfThreads = 128 time = 11076 ms
+dim =  3163 numOfThreads = 256 time = 11067 ms
+dim =  3163 numOfThreads = 512 time = 11901 ms
+dim =  3163 numOfThreads = 1024 time = 11949 ms
+dim =  5000 numOfThreads = 2 time = 38691 ms
+dim =  5000 numOfThreads = 64 time = 41211 ms
+dim =  5000 numOfThreads = 128 time = 41378 ms
+dim =  5000 numOfThreads = 256 time = 42722 ms
+dim =  5000 numOfThreads = 512 time = 43264 ms
+dim =  5000 numOfThreads = 1024 time = 45608 ms
+
